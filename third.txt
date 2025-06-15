@@ -1,0 +1,3 @@
+This is the third sample file.
+The file is named Third.txt.
+It's no coincidence it's intentional
