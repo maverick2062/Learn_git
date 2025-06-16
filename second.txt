@@ -1,2 +1,6 @@
-Hi! I am Nikhil Bokaria. I am an Engineering student pursuing B.Tech in the domain of CSE-DS from MAIT,Rohini.
-I love sports. I have a keen interest in music and love to play musical instruments.
+Hi! I am Nikhil Bokaria. 
+I am an Engineering student pursuing B.Tech in the domain of CSE-DS from MAIT,Rohini.
+I love sports. 
+I have a keen interest in music and love to play musical instruments.
+I am learning Git and GitHub.
+
